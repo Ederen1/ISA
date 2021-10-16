@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ISAa.dir/main.cpp.o  -o ISAa  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 
