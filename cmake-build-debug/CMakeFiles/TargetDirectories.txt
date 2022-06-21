@@ -1,3 +1,0 @@
-/mnt/c/Users/vitho/CLionProjects/ISAa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/vitho/CLionProjects/ISAa/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/vitho/CLionProjects/ISAa/cmake-build-debug/CMakeFiles/ISAa.dir
